@@ -26,11 +26,11 @@
 
   </a>    
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png"/>
+      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
