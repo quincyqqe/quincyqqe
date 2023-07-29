@@ -6,11 +6,7 @@
     I just do what I like, which is to code various programs in Python for myself or for someone else.
 <br>
 <br>
-<div align="center">
 
-[Email Me](sxcred06@gmail.com)
-</div>
-</p>    
 <br>
 <!-- Languages and Tools -->
 
