@@ -3,7 +3,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I just do what I like, which is to code various programs in Python for myself or for someone else.
+    A 17 y.o man from Ukraine. I`m interested in learning frontend.
 <br>
 <br>
 
@@ -18,6 +18,9 @@
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 
 
   </a>    
