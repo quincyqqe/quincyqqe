@@ -1,29 +1,112 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 quincyqqe </h1>
 
-
-
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    A 17 y.o man from Ukraine. I`m interested in learning frontend.
-<br>
-<br>
+<h1 align="left">:wave: Hello there! I'm Maksym Kryvenko</h1>
 
 <br>
-<!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-</div>
-<br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
+<h2 align="left" id="stack">🔥 Tech stack</h2>
 
-  <img height ='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
-  <img height ='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
-  <img height = '50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height = '50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img height = '50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+> General
 
-  </a>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>javascript
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+         <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
+      </a>
+      <br>yarn
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+      </a>
+      <br>github
+    </td>
+  </tr> 
+</table>
+
+
+> Code quality
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>prettier
+    </td>
+
+  </tr> 
+</table>
+
+> Frontend
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+          <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
+
+  
+</table>
+
+
+<br>
