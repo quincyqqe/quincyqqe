@@ -1,5 +1,5 @@
 
-<h1 align="left">:wave: Hello there! I'm Maksym Kryvenko</h1>
+<h1 align="left">:wave: Hello there! I'm Max</h1>
 
 <br>
 
