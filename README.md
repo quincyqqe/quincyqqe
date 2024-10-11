@@ -1,125 +1,28 @@
-
-<h1 align="left">:wave: Hello there! I'm Max</h1>
-
-<br>
-
-<h2 align="left" id="stack">🔥 Tech stack</h2>
-
-> General
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      </a>
-      <br>javascript
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-      </a>
-      <br>typescript
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>git
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>github
-    </td>
-  </tr> 
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Max.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 
-> Code quality
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>prettier
-    </td>
+### Technologies and tools:
 
-  </tr> 
-</table>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div><br>
 
-> Frontend
+### GitHub Stats
 
-<table width='100%'>
-  <tr>
-   <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-         <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-          <td align="center" width="110" height="90"> 
-      <a href="#stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  
-  </tr> 
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/anacristinaneves">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=quincyqqe&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quincyqqe&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
+    
+### Contact
 
-  
-</table>
-
-
-<br>
+<div> 
+  <a href="mailto:sxcred06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
